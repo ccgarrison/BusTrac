@@ -1,3 +1,3 @@
 # BusTrac
 Tracks bus stops from MIT to Harvard
-<img src = "blue.png" width = '300'/>
+<img src = "blue.png" width = '100'/>
