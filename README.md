@@ -7,3 +7,5 @@ Future Improvements: Work on improving my coding. Loading different markers. Wor
 
 <img src = "blue.png" width = '100'/>
 
+The project is licensed under the MIT license as shown in the repository.
+
